@@ -51,7 +51,7 @@ export const ClientStories = () => {
     <div className="text-white py-16 relative bg-gradient-to-r from-[#06083f] via-[#000d74] to-[#06083f]">
       {/* Background Image */}
       
-      {/* Testimonial Section */}
+      {/* Testimonial Sectio*/}
       <div className="">
         <h2 className="text-center text-2xl sm:text-3xl font-bold mb-6 sm:mb-10">
           Client Testimonials
